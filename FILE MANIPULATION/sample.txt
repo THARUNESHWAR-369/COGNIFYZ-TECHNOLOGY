@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some words for testing.
+You can add more text as needed.
+Word occurrences will be counted.
