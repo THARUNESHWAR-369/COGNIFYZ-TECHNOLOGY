@@ -25,4 +25,3 @@ while True:
             print("Too high. Try again.")
     except ValueError:
         print("Invalid input. Please enter a valid number between 1 and 100.")
-
